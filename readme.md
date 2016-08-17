@@ -1,5 +1,5 @@
 
-attempt to rool out multiple products using js-sdk-buy shopify
+an attempt to rool out multiple products using js-sdk-buy shopify
 
 live example is here
 
